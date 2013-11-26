@@ -1,5 +1,0 @@
-# file: roles/nginx/tasks/modules/google_perftools_module.yml
-
-# flag: --with-google_perftools_module
-
-# no contents necessary
