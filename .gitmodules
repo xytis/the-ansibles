@@ -1,3 +1,6 @@
 [submodule "roles/nginx"]
 	path = roles/nginx
 	url = https://github.com/kupishkis/role.nginx.git
+[submodule "roles/build-essential"]
+	path = roles/build-essential
+	url = https://github.com/kupishkis/role.build-essential.git
